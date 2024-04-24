@@ -1,0 +1,1 @@
+# terraform-partices1
